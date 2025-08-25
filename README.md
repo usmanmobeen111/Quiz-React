@@ -1,12 +1,50 @@
-# React + Vite
+# 🎯 QuizMaster – Interactive Quiz App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://react.dev/)  
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)  
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-7.6.0-FF0080?logo=framer)](https://www.framer.com/motion/)  
+[![Axios](https://img.shields.io/badge/Axios-1.6.0-5A29E4?logo=axios)](https://axios-http.com/)  
 
-Currently, two official plugins are available:
+A sleek, animated, and responsive **Quiz Application** built with **React, Tailwind CSS, Framer Motion**, and **Axios**. Featuring a modern gradient UI and smooth animations for an engaging user experience.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **GitHub Repo:** [Quiz-React](https://github.com/usmanmobeen111/Quiz-React.git)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Features  
+
+- ✨ **Dynamic Questions** – Fetch quiz data via **Axios** from an API  
+- 🎨 **Smooth Animations** – Powered by **Framer Motion**  
+- 🌈 **Modern Gradient UI** – Vibrant, colorful & clean  
+- 📱 **Fully Responsive** – Works across all devices  
+- 🏆 **Score Tracking & Feedback** – Real-time scoring  
+
+---
+
+## 🛠️ Tech Stack  
+
+- ⚛️ **React** – Component-based UI  
+- 🎨 **Tailwind CSS** – Utility-first styling  
+- 🌀 **Framer Motion** – Seamless animations  
+- 🔗 **Axios** – API integration  
+
+---
+
+## 🚀 Installation & Setup  
+
+## Clone the repository
+```bash
+git clone https://github.com/usmanmobeen111/Quiz-React.git
+```
+## Navigate to project folder
+```bash
+cd Quiz-React
+```
+## Install dependencies
+```bash
+npm install
+```
+## Start development server
+```bash
+npm run dev
+```
